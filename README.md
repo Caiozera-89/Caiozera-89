@@ -1,4 +1,4 @@
-# Seja Bem vindo :)
+# Olá, eu sou o Caio! 👋
 # Desenvolvedor de IA e Automação | Python | Soluções Tecnológicas
 ### Linguagens e Tecnologias
 
