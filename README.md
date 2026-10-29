@@ -1,5 +1,5 @@
 # Olá, eu sou o Caio! 👋
-# Desenvolvedor de IA e Automação | Python | Soluções Tecnológicas
+# Desenvolvedor de IA e Automação | Soluções Tecnológicas
 ### Linguagens e Tecnologias
 
 <p align="left">
