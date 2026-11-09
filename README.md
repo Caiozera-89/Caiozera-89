@@ -19,4 +19,4 @@
 
 ### 🌐 Meu site
 
-[atlastech.ia.br](https://atlastech.ia.br/)
+[atlastech.ia.br](https://oproximo.com.br/)
